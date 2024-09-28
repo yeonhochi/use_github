@@ -76,3 +76,5 @@
 ## 이미지로 설명
 
 ### 1.push
+
+![1.png](https://github.com/yeonhochi/use_github/blob/main/1.png)
