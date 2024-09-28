@@ -1,4 +1,4 @@
-# Git 워크플로우 가이드
+# Git 기본 가이드
 
 이 문서는 Git에서 사용하는 주요 개념과 워크플로우인 `pull`, `push`, `commit`, `branch`, `merge`에 대해 설명합니다.
 
