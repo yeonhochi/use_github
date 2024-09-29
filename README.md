@@ -75,6 +75,8 @@
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 ## 이미지를 통한 직관적 설명
 
 
@@ -106,7 +108,8 @@
 
 
 
-![5.png](https://github.com/yeonhochi/use_github/blob/main/5.png)<br><br>
+![5.png](https://github.com/yeonhochi/use_github/blob/main/5.png)
+<br><br>
 
 
 
@@ -119,10 +122,12 @@
 
 
 
-![6.png](https://github.com/yeonhochi/use_github/blob/main/6.png)<br><br>
+![6.png](https://github.com/yeonhochi/use_github/blob/main/6.png)
+<br><br>
 
 
 
 
-![7.png](https://github.com/yeonhochi/use_github/blob/main/7.png)<br><br>
+![7.png](https://github.com/yeonhochi/use_github/blob/main/7.png)
+
 
