@@ -72,6 +72,7 @@
 - 브랜치에서 작업한 내용을 `main` 브랜치에 합치거나, 여러 브랜치의 작업을 하나로 통합할 때 사용합니다.
 
   ---
+  
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
@@ -86,13 +87,12 @@
 
 - ### vs code 즉, 로컬 저장소에서 다음과 같이 작업을 진행하고 있을 때
 
-  
-
 
 ![1.png](https://github.com/yeonhochi/use_github/blob/main/1.png)
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
+
 ---
 
 
@@ -101,6 +101,7 @@
 
 
 ![2.png](https://github.com/yeonhochi/use_github/blob/main/2.png)
+
 ---
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
@@ -113,6 +114,7 @@
 
 
 ![5.png](https://github.com/yeonhochi/use_github/blob/main/5.png)
+
 ---
 
 
