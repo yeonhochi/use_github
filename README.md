@@ -85,6 +85,7 @@
 
 
 - Local 경로에 저장한 소스 코드가 SourceTree에도 반영된 것을 확인 할 수 있습니다.
+- Local 저장소에 변경 사항을 기록하는 작업인 'commit'을 진행합니다.
 
 
 ![2.png](https://github.com/yeonhochi/use_github/blob/main/2.png)
