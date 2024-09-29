@@ -93,7 +93,7 @@
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
-
+---
 
 
 - ### Local 경로에 저장한 소스 코드가 SourceTree에도 반영된 것을 확인 할 수 있습니다.
@@ -101,7 +101,7 @@
 
 
 ![2.png](https://github.com/yeonhochi/use_github/blob/main/2.png)
-
+---
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
@@ -113,7 +113,7 @@
 
 
 ![5.png](https://github.com/yeonhochi/use_github/blob/main/5.png)
-
+---
 
 
 <br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
