@@ -90,7 +90,9 @@
 
 
 ![1.png](https://github.com/yeonhochi/use_github/blob/main/1.png)
-
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 
 
 
@@ -100,7 +102,9 @@
 
 ![2.png](https://github.com/yeonhochi/use_github/blob/main/2.png)
 
-
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 
 
 - ### `pull`은 원격 저장소의 변경 사항을 로컬 저장소로 가져와 병합하는 작업으로 `push`를 진행하기 전 반드시 진행해주어야 합니다.
@@ -109,10 +113,12 @@
 
 
 ![5.png](https://github.com/yeonhochi/use_github/blob/main/5.png)
-<br><br>
 
 
 
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
+<br> <!-- 추가적인 간격을 위한 줄 바꿈 -->
 
 
 
