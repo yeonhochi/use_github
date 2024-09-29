@@ -79,3 +79,4 @@
 - vs code 즉, 로컬 저장소에서 다음과 같이 작업을 진행하고 있을 때
 
 
+![1.png](https://github.com/yeonhochi/use_github/blob/main/1.png)
