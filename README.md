@@ -89,3 +89,7 @@
 
 
 ![2.png](https://github.com/yeonhochi/use_github/blob/main/2.png)
+
+
+
+-`commit`을 완료하고, `push`를 하면 수정된 내용들이 설정한 Git repository에 반영되는 것을 확인 할 수 있습니다.
