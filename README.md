@@ -76,6 +76,10 @@
 ## 이미지를 통한 직관적 설명
 
 
+![result.png](https://github.com/yeonhochi/use_github/blob/main/result.png)
+
+---
+
 - ### vs code 즉, 로컬 저장소에서 다음과 같이 작업을 진행하고 있을 때
 
   
