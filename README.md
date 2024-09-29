@@ -80,3 +80,4 @@
 
 
 ![1.png](https://github.com/yeonhochi/use_github/blob/main/1.png)
+![2.png](https://github.com/yeonhochi/use_github/blob/main/2.png)
