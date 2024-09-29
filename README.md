@@ -92,5 +92,6 @@
 
 
 ![5.png](https://github.com/yeonhochi/use_github/blob/main/5.png)<br><br>
+- `pull`은 원격 저장소의 변경 사항을 로컬 저장소로 가져와 병합하는 작업으로 `push`를 진행하기 전 반드시 진행해주어야 합니다.
 ![6.png](https://github.com/yeonhochi/use_github/blob/main/6.png)<br><br>
--`commit`을 완료하고, `push`를 하면 수정된 내용들이 설정한 Git repository에 반영되는 것을 확인 할 수 있습니다.
+-`commit`과`pull`을 완료하고, `push`를 하면 수정된 내용들이 설정한 Git repository에 반영되는 것을 확인 할 수 있습니다.
